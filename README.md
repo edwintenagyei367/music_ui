@@ -2,4 +2,4 @@
 
 A Music Player UI designed with Flutter
 
-<img src="lib\images\UI.jpg height="500px"/>   
+<img src="lib\images\UI.jpg" height="800px"/>   
